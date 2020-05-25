@@ -1,2 +1,2 @@
 # jax-experiments
-This repository is linked to a blog post about using jax scoping
+This repository corresponds to the experiments discussed in https://joglekara.github.io/journal/For-Loops-in-JAX.html
